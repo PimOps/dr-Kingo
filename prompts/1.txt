@@ -25,7 +25,7 @@ Convert the given HTML content from the Sungkyunkwan University website (skku.ed
     - Extract and include any relevant metadata (date, author, tags) if available
 
 4. Formatting:
-    - Use full dates in YYYY-MM-DD format
+    - Transform food menu dates to this format: December, 23
     - Preserve emphasis (bold, italic) using Markdown syntax
     - Maintain a consistent indentation for nested elements
 
